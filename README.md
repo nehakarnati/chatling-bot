@@ -105,7 +105,12 @@ Test queries such as:
 - Share the link or **embed chatbot in your website** (via `<iframe>`)  
 
 ---
-## 📖 10. Documentation Help
+
+## 🌍 10. Website Integration (with iFrame)
+
+To make the chatbot accessible directly from a website, I created a simple webpage and embedded the chatbot using an `<iframe>`.
+
+## 📖 11. Documentation Help
 
 For more detailed guidance on building and deploying chatbots with Chatling, check out the official documentation:
 
